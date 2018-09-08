@@ -1,0 +1,5 @@
+print("Hello World")
+print("Pakistan zinda bad")
+print("DIMT Institute")
+print('We are pakistan')
+print(5+8)
