@@ -15,3 +15,9 @@
 - index (value return index positon)
 - clear (Clear All List Elements)
 
+### [IF else elif and or](https://github.com/EnggQasim/DIMT/blob/master/class5(if_Dictionry)/)
+#### If Statement
+- if
+- else
+- elif
+- if and or not > < == >= <= !=
